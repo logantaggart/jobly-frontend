@@ -1,0 +1,10 @@
+.Navigation {
+    background-color: whitesmoke;
+    border-bottom: 2px solid rgb(55, 144, 228);
+  }
+  
+  .nav-link.active {
+    font-weight: bold;
+    font-style: italic;
+    color: black;
+  }
